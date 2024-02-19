@@ -16,13 +16,13 @@ This example comes with a complete REST API to handle Authentication and CRUD fe
 Clone the project
 
 ```bash
-  git clone https://github.com/chiragmehta900/node-typescript-boilerplate-mongoose
+  git clone https://github.com/hemmehra/boilerplate-of-node-typescript-mongoose
 ```
 
 Go to the project directory
 
 ```bash
-  cd node-typescript-boilerplate-mongoose
+  cd boilerplate-of-node-typescript-mongoose
 ```
 
 Install dependencies
@@ -195,10 +195,10 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Author
 
-- [@chiragmehta900](https://www.github.com/chiragmehta900)
+- [@hemmehra](https://www.github.com/hemmehra)
 
 
 ## Support
 
-For support, email chiragmehta900@gmial.com or join our Slack channel.
+For support, email hemantmehra725@gmial.com.
 
